@@ -1,0 +1,2 @@
+# mysocial-app
+manages whatapp
